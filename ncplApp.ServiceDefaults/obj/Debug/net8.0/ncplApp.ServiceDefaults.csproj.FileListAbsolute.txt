@@ -1,0 +1,12 @@
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\bin\Debug\net8.0\ncplApp.ServiceDefaults.deps.json
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\bin\Debug\net8.0\ncplApp.ServiceDefaults.dll
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\bin\Debug\net8.0\ncplApp.ServiceDefaults.pdb
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\ncplApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\ncplApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\ncplApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\ncplApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\ncplApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\ncplApp.ServiceDefaults.dll
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\refint\ncplApp.ServiceDefaults.dll
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\ncplApp.ServiceDefaults.pdb
+C:\Users\aftab\source\repos\ncplApp\ncplApp.ServiceDefaults\obj\Debug\net8.0\ref\ncplApp.ServiceDefaults.dll
