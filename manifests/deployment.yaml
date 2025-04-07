@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ncplapp-deployment
+  labels:
+    app: ncplapp
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: ncplapp
+  template:
+    metadata:
+      labels:
+        app: ncplapp
+    spec:
+      containers:
+        - name: ncplapp
+          image: bootcampproj2.azurecr.io/ncplapp_image:latest
+          ports:
+            - containerPort: 80
+          imagePullPolicy: Always
+      # imagePullSecrets:
+      #   - name: acr-secret  # Needed for ACR access if not using managed identity
