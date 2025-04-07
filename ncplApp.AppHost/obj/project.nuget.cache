@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PZDIsID6LYA=",
+  "dgSpecHash": "JNsDRFPPUDU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.AppHost\\ncplApp.AppHost.csproj",
+  "projectFilePath": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.AppHost\\ncplApp.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aftab\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\aspire.dashboard.sdk.win-x64.9.0.0.nupkg.sha512",
     "C:\\Users\\aftab\\.nuget\\packages\\aspire.hosting\\9.0.0\\aspire.hosting.9.0.0.nupkg.sha512",

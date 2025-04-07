@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class ncplApp : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\aftab\source\repos\ncplApp\ncplApp\ncplApp.csproj""";
+    public string ProjectPath => """C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp\ncplApp.csproj""";
 }

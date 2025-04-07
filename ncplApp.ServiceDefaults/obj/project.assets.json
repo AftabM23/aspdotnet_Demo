@@ -2189,11 +2189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.ServiceDefaults\\ncplApp.ServiceDefaults.csproj",
+      "projectUniqueName": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.ServiceDefaults\\ncplApp.ServiceDefaults.csproj",
       "projectName": "ncplApp.ServiceDefaults",
-      "projectPath": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.ServiceDefaults\\ncplApp.ServiceDefaults.csproj",
+      "projectPath": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.ServiceDefaults\\ncplApp.ServiceDefaults.csproj",
       "packagesPath": "C:\\Users\\aftab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.ServiceDefaults\\obj\\",
+      "outputPath": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.ServiceDefaults\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

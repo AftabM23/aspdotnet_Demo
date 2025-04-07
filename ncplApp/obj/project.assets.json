@@ -2210,11 +2210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp\\ncplApp.csproj",
+      "projectUniqueName": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp\\ncplApp.csproj",
       "projectName": "ncplApp",
-      "projectPath": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp\\ncplApp.csproj",
+      "projectPath": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp\\ncplApp.csproj",
       "packagesPath": "C:\\Users\\aftab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp\\obj\\",
+      "outputPath": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2235,8 +2235,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.ServiceDefaults\\ncplApp.ServiceDefaults.csproj": {
-              "projectPath": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.ServiceDefaults\\ncplApp.ServiceDefaults.csproj"
+            "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.ServiceDefaults\\ncplApp.ServiceDefaults.csproj": {
+              "projectPath": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.ServiceDefaults\\ncplApp.ServiceDefaults.csproj"
             }
           }
         }

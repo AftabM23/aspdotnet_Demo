@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.AppHost\\ncplApp.AppHost.csproj": {}
+    "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.AppHost\\ncplApp.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.AppHost\\ncplApp.AppHost.csproj": {
+    "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.AppHost\\ncplApp.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.AppHost\\ncplApp.AppHost.csproj",
+        "projectUniqueName": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.AppHost\\ncplApp.AppHost.csproj",
         "projectName": "ncplApp.AppHost",
-        "projectPath": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.AppHost\\ncplApp.AppHost.csproj",
+        "projectPath": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.AppHost\\ncplApp.AppHost.csproj",
         "packagesPath": "C:\\Users\\aftab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aftab\\source\\repos\\ncplApp\\ncplApp.AppHost\\obj\\",
+        "outputPath": "C:\\Users\\aftab\\OneDrive\\Desktop\\Azure training\\bootcamp\\proj2\\aspdotnet_Demo\\ncplApp.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

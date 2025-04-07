@@ -8,5 +8,5 @@ namespace Projects;
 public class ncplApp_AppHost
 {
     private ncplApp_AppHost() { }
-    public static string ProjectPath => """C:\Users\aftab\source\repos\ncplApp\ncplApp.AppHost""";
+    public static string ProjectPath => """C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.AppHost""";
 }

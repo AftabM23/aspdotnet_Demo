@@ -1,0 +1,13 @@
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\bin\Release\net8.0\ncplApp.ServiceDefaults.deps.json
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\bin\Release\net8.0\ncplApp.ServiceDefaults.dll
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\bin\Release\net8.0\ncplApp.ServiceDefaults.pdb
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ncplApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ncplApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ncplApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ncplApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ncplApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ncplApp.ServiceDefaults.sourcelink.json
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ncplApp.ServiceDefaults.dll
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\refint\ncplApp.ServiceDefaults.dll
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ncplApp.ServiceDefaults.pdb
+C:\Users\aftab\OneDrive\Desktop\Azure training\bootcamp\proj2\aspdotnet_Demo\ncplApp.ServiceDefaults\obj\Release\net8.0\ref\ncplApp.ServiceDefaults.dll

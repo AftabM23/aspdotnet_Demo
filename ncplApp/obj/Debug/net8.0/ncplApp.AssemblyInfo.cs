@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ncplApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3df2214c774befcf02eb31fcb1a3252be333083")]
 [assembly: System.Reflection.AssemblyProductAttribute("ncplApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ncplApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
